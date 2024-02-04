@@ -24,6 +24,9 @@ PROJECT OVERVIEW
 •	Transaction Correlation: Examining correlations between different transactions, especially across multiple accounts, can reveal coordinated fraud attempts.
 
 By combining and analyzing these features, a machine learning model can learn to distinguish between legitimate and fraudulent transactions, contributing to the effectiveness of an online payment fraud detection system. The specific set of features used may vary depending on the characteristics of the data and the chosen machine learning algorithms. 
+THE DATASET FOR THIS PROJECT WAS DOWNLOADED FROM KAGGLE WEBSITE, HERE'S THE SOURCE LINK - 
+
+https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 Methodology - 
 BLOCK DIAGRAM-
